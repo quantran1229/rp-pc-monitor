@@ -1,0 +1,6 @@
+{
+    "WEB": "start firefox",
+    "YOUTUBE": "start firefox https://www.youtube.com",
+    "FACEBOOK": "start firefox https://www.facebook.com/",
+    "CODE": "code"
+}
